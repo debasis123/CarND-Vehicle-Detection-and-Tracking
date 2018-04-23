@@ -1,0 +1,11 @@
+dataset
+.ipynb_checkpoints
+*.h5
+models
+*.swp
+*.p
+__pycache__
+algorithm.txt
+*challenge_video*
+helper.py
+
